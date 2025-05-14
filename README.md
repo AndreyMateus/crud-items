@@ -36,6 +36,7 @@ Exemplo: node server.js
 | Método | Rota         | Descrição                  |
 | ------ | ------------ | -------------------------- |
 | GET    | `/items`     | Lista todos os itens       |
+| GET    | `/items:id`  | Lista um item pelo id      |
 | POST   | `/items`     | Cria um novo item          |
 | PUT    | `/items/:id` | Atualiza um item existente |
 | DELETE | `/items/:id` | Remove um item existente   |
