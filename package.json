@@ -1,0 +1,23 @@
+{
+  "name": "crud-items",
+  "version": "1.0.0",
+  "description": "Este projeto implementa um CRUD básico (Create, Read, Update, Delete) utilizando Node.js com a biblioteca Express. Os dados são armazenados em um arquivo JSON local (`data/db.json`), simulando um banco de dados.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyMateus/crud-items.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyMateus/crud-items/issues"
+  },
+  "homepage": "https://github.com/AndreyMateus/crud-items#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
